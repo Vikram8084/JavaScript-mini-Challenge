@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+.count{
+    font-size: 3rem;
+}
+button{
+    padding: 10px 16px;
+    background-color: cyan;
+    border: 1px solid grey;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+.changeBy{
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+}
+.horizontal-line {
+    border-top: 4px solid hsl(0, 89%, 4%);  /* Adjust style as needed */
+    width: 100%;  /* Optional: Set the width of the line */
+  }
+  
